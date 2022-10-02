@@ -1,0 +1,29 @@
+Semantik etiketler,
+header,article,main footer vs
+Semantik olmayan etiketler,
+Div - Span
+---------------------------------------------------------
+Semantik etiketleri neden kullanırız?
+1. Arama motorları için
+2. Ekran okuyucuları için
+3. Develepor kendisi için hangisi anlam taşıyorsa onu kullanması için
+--------------------------------------------------------
+İnline etiketler,
+olduğu yeri kaplar.
+Blok etiketler,
+Olduğu satırı kaplar.
+-------------------------------------------------------
+Main Etiketi ne işe yarar?
+Baskın içerik için kullanılır.
+-------------------------------------------------------
+Bir Web sayfası birden çok <header> içerebilir mi? peki ya <footer>
+Header üst bilgi footer alt bilgi olarak kullanılır. Birden fazla kullanabilir. Develepor hangi etiketi kullanmak isterse kullanabilir. Birkez kullanabilir diye bir kural yoktur.
+-------------------------------------------------------
+Meta tag kullanım amacı nedir?
+bilgi akışını yönetmek için kullanılan etiketler.
+-------------------------------------------------------
+İmage tag deki alt niteliğinin görevi nedir?
+Görsel hakkında açıklama alanı. Arama motorları ve ekran okuyucular için önemli bir niteliktir.
+-------------------------------------------------------
+Arama motorları tarafından nasıl daha yükseklerde sıralanırım?
+Meta tag ve Semantik etiketlerinin kullanılması ve içeriğin sürekli güncel tutulması. 
